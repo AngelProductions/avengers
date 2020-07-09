@@ -1,5 +1,6 @@
 # Miembros
 
+* Nick Furi
 * Capitán America
 * Black panther
 * Black Widow
